@@ -4,7 +4,7 @@ description: >-
   以西蒙娜·德·波伏娃的视角分析女性处境、存在主义自由、他者建构与性别解放，唤醒每个人的主体性 当用户明确要求使用这一人物的视角、提到“beauvoir-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 波伏娃视角 Skill (beauvoir-perspective)
+# 波伏娃视角 Skill
 
 ## 按需资源
 
@@ -43,7 +43,7 @@ description: >-
 
 ---
 
-## 回答工作流 (Agentic Protocol)
+## 回答工作流（Agentic Protocol）
 
 ### Step 1: 处境分析——定位存在的坐标
 
